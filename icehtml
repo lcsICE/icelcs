@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+
+
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>IG Soluções Contábeis</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Saira+Extra+Condensed&display=swap" rel="stylesheet">
+        <link rel="shortcut icon" type="text/css" href="Sem-Título-2.ico">
+        <link rel="stylesheet" href="Untitled-2.css">
+        
+    </head>
+    <body>
+
+        <header>
+            <nav>
+                <img class="logo" src="ig png.png" alt="LOGO">
+                <ul>
+                
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#servico">Serviços</a></li>
+                <li><a href="#contato">Contato</a></li>
+                </ul>
+            </nav>
+
+            <div class="header-content">
+                <h1>Precisa de uma assessoria contábil de confiança?</h1>
+                <p>Conheça nossos planos</p>
+                
+            </div>
+        </header>
+
+        <section id='sobre' class="pacotes">
+            <h1 class="tituloh1">O que nos faz de nos diferentes das outras
+                contabilidades, e garante que você pode confiar em nossa
+                empresa?</h1>
+
+            <div class="pacotescards">
+                <div class="cards">
+                    <img class="cardimage" src="calc.png" alt="calc">
+                    <div class="card-content">
+
+                        <h1 class="titulo">Contabilidade</h1>
+                        <p class="subtitulo">Contabilidade fiscal e de Gestão,
+                            controle e execução das obrigações contabilísticas
+                            de acordo com toda a legislação pertinente em
+                            matéria contabilística e fiscal.</p>
+
+                    </div>
+                </div>
+
+
+                <div class="cards">
+                    <img class="cardimage" src="fiscal.png" alt="Fiscal">
+                    <div class="card-content">
+
+                        <h1 class="titulo">Fiscal</h1>
+                        <p class="subtitulo">Terceirização do Financeiro permite
+                            que você mantenha-se focado na gestão dos seus
+                            négocios.
+                        </p>
+
+                    </div>
+                </div>
+
+                <div class="cards">
+                    <img class="cardimage" src="money.png" alt="Money">
+                    <div class="card-content">
+
+                        <h1 class="titulo">Economia garantida</h1>
+                        <p class="subtitulo">Na nossa empresa você economiza
+                            mais, alem de ter um serviço de qualidade</p>
+
+                    </div>
+                </div>
+
+                 <div class="cards">
+                    <img class="cardimage" src="valores.png" alt="Money">
+                    <div class="card-content">
+
+                        <h1 class="titulo">Valores</h1>
+                        <p class="subtitulo">Meritocracia, Ética,
+                                    Comprometimento,
+                                    Respeito, Proatividade,
+                                    Inovação, Garra,
+                                    Confiança, Consistência,
+                                    Visão de longo prazo
+                                    </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </section>
+                <!--Funcionários-->
+
+        <section> <img src="IsabelaJanuario.jpg" class="perfil1" />
+            <p class="isatext">Olá, eu me chamo Isabela Januário, tenho 24 anos e sou uma das CEO e
+contadadora dessa empresa.</p></section>
+        <section>
+                                
+            <img src="ÂngelaGabriela.jpg" class="perfil1" />
+            <p class="isatext">Olá, eu me chamo Angela Gabriela, tenho 23 anos e sou CEO e
+contadadora dessa empresa.</p>
+        </section>
+
+<!--Outra section-->
+
+            <section id="servico" class="pacotes2">
+                <h1 class="tituloh1">Nossos Diferenciais</h1>
+
+                <div class="pacotescards">
+                    <div class="cards">
+                        
+                        <div class="card-content">
+
+                            <h1 class="titulo">Missão</h1>
+                            <p class="subtitulo">Aprimorar a gestão dos
+                            nossos clientes,
+                            proporcionando
+                            qualidade na tomada de
+                            decisões empresariais, por
+                            meio da analise das
+                            informações contábil,
+                            tributária, trabalhista e
+                            empresarial.</p>
+
+                        </div>
+                    </div>
+
+
+                    <div class="cards">
+                        
+                        <div class="card-content">
+
+                            <h1 class="titulo">Visão</h1>
+                            <p class="subtitulo">Ser reconhecido no meio
+                                empresarial do Estado do
+                                Ceará pela qualidade dos
+                                serviços prestados e o
+                                excelente atendimento,
+                                buscando sempre
+                                implementar soluções
+                                que dão sustentação ao
+                                crescimento da empresa.
+                            </p>
+
+                        </div>
+                    </div>
+            </section>
+            <section class="section3">
+                <div class="divf">
+                    <h1 id="contato">Ligue-nos</h1>
+                    <p>(88)9204-1493</p>
+            </div>
+            <div class="divf">
+                    <h1>Visite-nos</h1>
+                    <p>Rua MOACIR de SOUSA ROCHA Centro</p>
+                    <p>ARARIPE-CE</p>
+            </div>
+             <div class="divf">
+                    <h1>Email Para Contato</h1>
+                    <p>Ig.solucoescontabeis1@gmail.com</p>
+
+            </div>
+
+            <img class="logo2" src="ig png.png" alt="LOGO">
+            </section>
+            <section class="section4"><p>©2022 SPACE CODES | Todos os direitos reservados</p></section>
+        
+    </body>
+</html>
