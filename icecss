@@ -1,0 +1,224 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 90px;
+  }
+
+
+section{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    padding: 40px 4%;
+    font-family: roboto;
+    color: rgb(20, 20, 20);
+
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+
+
+section:nth-of-type(2){
+    background-image: url(side1.png);
+}
+
+section:nth-of-type(3){
+    background-image: url(side2.png);
+    max-width: 1920px;
+
+}
+
+
+
+.header-content{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 400px;
+    margin: 150px auto;
+    text-align: center;
+}
+
+.header-content h1{
+    margin-bottom: 10px;
+}
+
+header nav{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 30px;
+   
+}
+
+header nav{
+    font-weight: bold;
+}
+
+header{
+    height: 100vh;
+    background-image: url(leone-venter-VieM9BdZKFo-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+header nav ul{
+    font-family: 'Lucida Sans Unicode';
+    color: #ff007f;
+   
+    list-style: none;
+    display: flex;
+}
+
+header nav ul li{
+    text-decoration: none;
+    margin: 50px;
+    color: #ff007f;
+}
+
+.logo{
+    width: 261px;
+    height: 156px;
+
+}
+
+.logo2{
+    width: 261px;
+    height: 156px;
+    display: flex;
+}
+.perfil1 {
+    border: 8px solid rgba(255, 0, 127, 1.0);
+    border-radius: 50%;
+    position: relative;
+    max-width: 100%;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.isatext {
+    font-family: monospace;
+    color: #ff007f;
+    font-size: 20px;
+}
+
+body{
+    margin: 0;
+}
+
+button{
+    padding: 8px 14px;
+    border-radius: 8px;
+    font-weight: bold;
+    border: 0;
+    background-color: #CE2156;
+    color: white;
+    font-family: 'Lucida Sans Unicode';
+}
+
+.pacotes{
+    background: #ff007f;
+    height: 1050px;
+    font-family: 'Lucida Sans Unicode';
+    
+}
+
+.pacotes2{
+    background: #ff007f;
+    height: 600px;
+    font-family: 'Lucida Sans Unicode';
+    color: white;
+
+}
+
+.divf {
+display: block;
+margin: 30px;
+}
+
+.divf h1{
+    font-size: 40px;
+}
+.divf p{
+    font-size: 20px;
+}
+
+.section3 {
+    font-family: 'Saira Extra Condensed', sans-serif;
+    height: 250px;
+    background-color: lightgray;
+    display: flex;
+}
+
+.section4 {
+    font-family: monospace;
+    height: 50px;
+    background-color: lightgray;
+}
+
+.tituloh1 {
+    text-align: center;
+    width: 100%;
+    color: white;
+    font-size: 30px;
+    padding: 15px;
+    margin: auto;
+}
+
+.pacotescards {
+    display: flex;  
+    margin: auto;
+    max-width: 950px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+.pacotes .cards {
+   width: 400px;
+   height: 380px;
+   background: white;
+   border-radius: 24px 8px;
+   margin: 25px 25px;
+   position: relative;
+   overflow: hidden;
+   border: 8px solid rgba(255, 0, 96, 1.0);
+}
+
+.pacotes .cardimage {
+
+    width: 100px;
+    height: 100px;
+    margin: 8px;
+    
+
+}
+
+.titulo {
+    font-size: 30px;
+    font-family: 'Lucida Sans Unicode';
+    color: #ff007f;
+}
+
+.subtitulo {
+    font-size: 20px;
+    font-family: 'Lucida Sans Unicode';
+    
+}
+
+
